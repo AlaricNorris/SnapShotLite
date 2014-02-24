@@ -30,6 +30,8 @@ public class MainActivity extends Activity {
 
 	private String mAppRootPath ;
 
+	
+	
 	/**
 	 * Called with the activity is first created.
 	 */
